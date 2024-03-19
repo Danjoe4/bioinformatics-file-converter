@@ -16,9 +16,8 @@
   </div>
 
   <p>
-    A simple tool to convert bioinformatics file formats. Please contact
-        <a href="mailto:admin@seqbio.app">admin@seqbio.app</a> to report issues,
-        request features, or if you'd like to contribute.
+    A simple tool to convert bioinformatics file formats. There is no file size limit but it will struggle with very large files (400+ mb). For reference, a 200mb file takes about 60secs to convert. Performance improvements are coming.
+    Please contact <a href="mailto:admin@seqbio.app">admin@seqbio.app</a> to report issues, request features, or if you'd like to contribute.
   </p>
 
 
